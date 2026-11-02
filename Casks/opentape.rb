@@ -1,10 +1,10 @@
 cask "opentape" do
-  version "0.1.0"
-  sha256 "17804188522ab749dfa8435649e8ef9ad0b848089067c63e5c62fd312c0fc446"
+  version "0.1.1"
+  sha256 "47300b26e941a8503283e11c16eb310a5c46395eeaacc84ef94c2d2f563e732e"
 
   url "https://github.com/aidankmcalister/OpenTape/releases/download/v#{version}/OpenTape.dmg"
   name "OpenTape"
-  desc "Screen recorder that turns raw recordings into polished demos"
+  desc "Screen recorder that makes clips ready to share"
   homepage "https://opentape.app/"
 
   livecheck do
