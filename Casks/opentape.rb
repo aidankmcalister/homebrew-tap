@@ -1,6 +1,6 @@
 cask "opentape" do
-  version "0.1.4"
-  sha256 "05fc708f66ed2d40dbb4409f8bd4b94537c9d536d3ba4ecfa2b40fa4a86107a3"
+  version "0.1.5"
+  sha256 "a5969ca40a11724cfbe726cdd197e9c2c3425e1040dc4864ba8e10209675bdbe"
 
   url "https://github.com/aidankmcalister/OpenTape/releases/download/v#{version}/OpenTape.dmg"
   name "OpenTape"
